@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "test1",
+        "en": "test1"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "youssefhessein70@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/youssefhessein70/tw-test1",
+    "components": []
+}
